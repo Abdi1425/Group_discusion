@@ -7,7 +7,7 @@
 **Course:** BIT 2118-SCIENTIFIC COMPUTING 
 
 ## About
-This repository contains my individual work for Tasks 2 to 20 of the BIT 2118 AND BIT4131 group work.
+This repository contains the group work for Tasks 2 to 20 of the BIT 2118 .
 For each task I:
 1. Identified the input values and the mathematical operation.
 2. Changed at least one input and explained how the result changed.
