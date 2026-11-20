@@ -1,8 +1,8 @@
 # BIT 2118-SCIENTIFIC COMPUTING 
 
-**Name:** Ayub Hussein
+**Name:** Abdi Yerowe Harbi
 
-**Admission number:** BSCCS/2024/56898
+**Admission number:** BSCCS/2024/57744
 
 **Course:** BIT 2118-SCIENTIFIC COMPUTING 
 
